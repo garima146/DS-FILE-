@@ -153,4 +153,5 @@ class s1
             cin>>ss;
             r.in_po(ss);
         }
+        return 0;
     }
