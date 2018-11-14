@@ -63,4 +63,5 @@ if(min<max)
 if(flag==0)
     cout<<"Element not found ";
 return 0;
+    
 }
