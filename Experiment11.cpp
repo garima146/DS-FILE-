@@ -58,6 +58,7 @@ void postorder(struct node *root)
     }
 }
 
+
 node* searchnode(node *root,int x)
 {
     if(root==NULL){
