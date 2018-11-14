@@ -42,6 +42,7 @@ void linked_list::insert_beg()
         rear=p;
     }
 }
+
 void linked_list::display()
 {
     rear->next=front;
