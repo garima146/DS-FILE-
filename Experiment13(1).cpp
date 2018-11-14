@@ -36,6 +36,7 @@ if(a[v][j]!=0 && visited[j]!=1 && visit[j]!=1)
 visit[j]=1;
 qu[rare++]=j;
 }
+     
 v=qu[front++];
 cout<<v << " ";
 k++;
