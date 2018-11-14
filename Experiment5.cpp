@@ -46,11 +46,11 @@ void push(int x)
    }
 }
 void pop()
-{ if(top==-1)
-cout<<"underflow sir!"<<endl;
-else
-{cout<<"deleted element is"<<" "<<Stack[top--]<<endl;
-}
+{ 
+    if(top==-1)
+        cout<<"underflow sir!"<<endl;
+    else
+        cout<<"deleted element is"<<" "<<Stack[top--]<<endl;
 }
 void display()
 {for(int i=top;i>-1;i--)
