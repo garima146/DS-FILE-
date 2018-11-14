@@ -14,6 +14,7 @@ for(i=0;i<n;i++)
     cout<<a[i]<<" ";
 }
 cout<<endl;
+
 cout<<"\nEnter the element to search: ";
 cin>>ele;
 for(i=0;i<n;i++)
