@@ -33,6 +33,7 @@ void heapsort(int a[],int n)
         max_heapify(a,0,s);
     }
 }
+
 int main()
 {
     int n,i;
