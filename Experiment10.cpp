@@ -39,4 +39,5 @@ int main()
     for(i=0;i<=M+N-1;i++)
         cout << C[i] << " ";
     cout << endl << X;
-    return 0; }
+    return 0; 
+}
